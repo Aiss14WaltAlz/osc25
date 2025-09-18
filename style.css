@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: #f9f9f9;
+   /* background-image: url(istockphoto-2150236683-612x612.jpg);*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #801120;
+    padding: 5px;
+}
+
+h1, h2 {
+    color: #006699;
+}
+h2 {
+    color: #801120;;
+}
+
+a {
+    color: #0c0077;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+form input {
+    margin: 8px 0;
+    padding: 6px;
+    background-color: aqua;
+}
